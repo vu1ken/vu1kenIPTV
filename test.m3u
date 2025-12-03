@@ -10,3 +10,12 @@ https://a1xs.vip/4000080
 # ESPN HD
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="https://i.ibb.co/gbhcvFKG/ESPN.png" tvg-name="ESPN HD" group-title="US Sports",ESPN HD
 https://a1xs.vip/40000011
+
+#EXTINF:-1 tvg-id="NFLRedZone.us@SD" tvg-logo="https://i.imgur.com/5lPqQj5.png" group-title="United States",NFL RedZone
+https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-logo="https://i.ibb.co/f6YPH4S/NFLRed-Zone.png" tvg-name="NFL RedZone" group-title="US Sports",NFL RedZone
+https://a1xs.vip/40000033
+
+#EXTINF:-1 tvg-id="NFLRedZone.us@SD" tvg-logo="https://i.imgur.com/5lPqQj5.png" group-title="United States",NFL RedZone
+https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
