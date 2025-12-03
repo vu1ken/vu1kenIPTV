@@ -13,3 +13,10 @@ https://a1xs.vip/40000011
 #EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-logo="https://i.ibb.co/f6YPH4S/NFLRed-Zone.png" tvg-name="NFL RedZone" group-title="US Sports",NFL RedZone
 https://a1xs.vip/40000033
 
+#Sky Sports F1
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" tvg-name="Sky Sports F1 FHD" group-title="UK Sports",Sky Sports F1 FHD
+https://a1xs.vip/2000005 
+
+#TNT Sports 1
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/TNTS1.png" tvg-name="(UK UFC) TNT Sports 1 FHD" group-title="UK Sports",(UK UFC) TNT Sports 1 FHD
+https://a1xs.vip/2000021
