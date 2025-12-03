@@ -1,8 +1,6 @@
 #EXTM3U
 
 # NESN
-
-
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HD.us2" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" tvg-name="US: NESN UHD" group-title="UHD | 4K",US: NESN UHD
 https://a1xs.vip/4000080
 
@@ -11,7 +9,7 @@ https://a1xs.vip/4000080
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="https://i.ibb.co/gbhcvFKG/ESPN.png" tvg-name="ESPN HD" group-title="US Sports",ESPN HD
 https://a1xs.vip/40000011
 
-
+#NFL Sunday Ticket
 #EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-logo="https://i.ibb.co/f6YPH4S/NFLRed-Zone.png" tvg-name="NFL RedZone" group-title="US Sports",NFL RedZone
 https://a1xs.vip/40000033
 
