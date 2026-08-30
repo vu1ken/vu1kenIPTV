@@ -2,8 +2,7 @@
 
 # NESN
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HD.us2" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" tvg-name="US: NESN UHD" group-title="UHD | 4K",US: NESN UHD
-https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5dc/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWRjOjE3ODQzNDg3Mjk4MTU6Y2RubGl2ZXR2LnR2OmFlYzNkNzQ1NmNjNDk1NTAuMDEzYjNkNTA1ZDliZDcwMzlhZWU0MTJhMjhmOTVlZmE3YzdkOWFjNjM5MTJlMjcwMDllNWMwZjcwMTkwMGZlZg
-
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5dc/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWRjOjE3ODgxMjgwMTk1MDg6Y2RubGl2ZXR2LnR2OjE3ZDBhOTcwM2U0N2QwMzYuYjExYzYxZGQyMjY2OWUzYjY5ZDk1MWMzN2UyMGM5ZWI5MTBlMTNjMDM2OGNlZWUzOWU4YTYyMThjNzhiYTQxNQ
 
 # ESPN HD
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="https://i.ibb.co/gbhcvFKG/ESPN.png" tvg-name="ESPN HD" group-title="US Sports",ESPN HD
